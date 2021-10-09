@@ -1,19 +1,20 @@
-function ukolKalkulacka(cislo1, cislo2) {
+function ukolKalkulacka(c1, c2) {
   let cislo1 = Number (prompt ("Zadej první číslo"));
   let cislo2 = Number (prompt ("Zadej druhé číslo"));
   
-  let soucet = cislo1 + cislo2;
+  let soucet = c1 + c2;
   console.log ("Soucet:", soucet);
   
-  let rozdil = Math.abs(cislo1 - cislo2);
+  let rozdil = Math.abs(c1 - c2);
   console.log ("Rozdil:", rozdil);
 
-  let nasobek = cislo1 * cislo2;
+  let nasobek = c1 * c2;
   console.log ("Nasobek:", nasobek);
 
-  let podil = cislo1 / cislo2;
+  let podil = c1 / c2;
   console.log ("Podil:", podil);
   }
 
-  ukolKalkulacka (10, 12)
+  ukolKalkulacka 
   
+
