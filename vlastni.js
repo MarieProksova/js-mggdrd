@@ -6,17 +6,17 @@
  // let soucet = c1 + c2;
   //console.log ("Soucet:", soucet);
   //
-  let rozdil = Math.abs(c1 - c2);
-  console.log ("Rozdil:", rozdil);
+  //let rozdil = Math.abs(c1 - c2);
+  //console.log ("Rozdil:", rozdil);
 //
-  let nasobek = c1 * c2;
-  console.log ("Nasobek:", nasobek);
+ // let nasobek = c1 * c2;
+ // console.log ("Nasobek:", nasobek);
 //
-  let podil = c1 / c2;
-  console.log ("Podil:", podil);
-  }
+ // let podil = c1 / c2;
+ // console.log ("Podil:", podil);
+ // }
 
-ukolKalkulacka ( )
+//ukolKalkulacka ( )
 //
 
 
