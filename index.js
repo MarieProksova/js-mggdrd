@@ -1,2 +1,2 @@
-import "./ukol4";
+import "./vlastni";
 
