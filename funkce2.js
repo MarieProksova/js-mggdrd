@@ -4,7 +4,8 @@ for (let i = 2; i < cislo; i++)  {
     console.log("Číslo " + cislo + " je dělitelné:" + i);
     return false;
   }
-}
+  }
+  console.log("Číslo " + cislo + " je dělitelné pouze samosebu a jedničkou");
 return true;
 }
 
