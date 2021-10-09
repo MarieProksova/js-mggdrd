@@ -1,6 +1,6 @@
 function ukolKalkulacka(c1, c2) {
-  let cislo1 = Number (prompt ("Zadej první číslo"));
-  let cislo2 = Number (prompt ("Zadej druhé číslo"));
+  let c1 = Number (prompt ("Zadej první číslo"));
+  let c2 = Number (prompt ("Zadej druhé číslo"));
   
   let soucet = c1 + c2;
   console.log ("Soucet:", soucet);
@@ -15,6 +15,7 @@ function ukolKalkulacka(c1, c2) {
   console.log ("Podil:", podil);
   }
 
-  ukolKalkulacka 
-  
+ukolKalkulacka ( )
+
+
 

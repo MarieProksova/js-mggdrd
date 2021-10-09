@@ -1,2 +1,2 @@
-import "./funkce2";
+import "./vlastni";
 
