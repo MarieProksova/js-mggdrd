@@ -5,15 +5,15 @@ function ukolKalkulacka(cislo1, cislo2) {
   let soucet = cislo1 + cislo2;
   console.log ("Soucet:", soucet);
   
-  let rozdil = cislo1 - cislo2;
-  console.log ("Rozdil:"rozdil);
+  let rozdil = Math.abs(cislo1 - cislo2);
+  console.log ("Rozdil:", rozdil);
 
   let nasobek = cislo1 * cislo2;
-  console.log ("Nasobek:"nasobek);
+  console.log ("Nasobek:", nasobek);
 
   let podil = cislo1 / cislo2;
-  console.log ("Podil:"podil);
+  console.log ("Podil:", podil);
   }
 
-  ukolKalkulacka
+  ukolKalkulacka (10, 12)
   

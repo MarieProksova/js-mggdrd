@@ -14,7 +14,7 @@ for (let i = cislo1; i<= cislo2; i++) {
   //  soucet += cislocislo = Number (prompt ("Zadej:"));
   // console.log ("Naakumulovany soucet: " + soucet);
 
-}
+
 
 
 
